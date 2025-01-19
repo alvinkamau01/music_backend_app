@@ -42,5 +42,5 @@ api.add_resource(SongRequestResource,'/song_request/<int:song_request_id>')
 
 
 
-if __name__ == '__main__':
-    app.run(port=5000, debug=True)
+###if __name__ == '__main__':
+###    app.run(port=5000, debug=True)
